@@ -5,6 +5,7 @@ O que são Design Patterns
 .. image:: patterns-gof-book.png
    :alt: Cover of the original Design Patterns book
    :align: right
+   :scale: 50%
 
 *Design patterns* ou *padrões de projeto* são formas de organizar um programa orientado a objeto para resolver determinados problemas promovendo a flexibilidade e a adaptabilidade do sistema a novas demandas.
 
