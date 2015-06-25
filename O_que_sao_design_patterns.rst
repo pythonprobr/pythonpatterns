@@ -7,7 +7,7 @@ O que são Design Patterns
    :align: right
    :scale: 50%
 
-*Design patterns* ou *padrões de projeto* são formas de organizar um programa para resolver determinados problemas promovendo a flexibilidade e a adaptabilidade do sistema a novas demandas.
+*Design patterns* ou *padrões de projeto* são formas de organizar as partes de um programa para resolver determinados problemas promovendo a flexibilidade e a adaptabilidade do sistema a novas demandas.
 
 Por exemplo, o design pattern **Iterator** (**Iterador**) recomenda a criação de uma classe especializada para percorrer uma coleção de objetos, oferecendo uma interface padrão (por exemplo, um método ``next``) de forma que as outras classes do programa que precisam percorrer os itens da coleção não precisam saber como ela é implementada; elas só precisam chamar o método ``next``. Isso permite também trocar a implementação da coleção e modificar apenas o **Iterador**, sem ter que alterar o código das partes do programa que utilizam o **Iterador**.
 
