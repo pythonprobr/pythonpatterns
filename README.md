@@ -1,2 +1,3 @@
 # pythonpatterns
-Exemplos do curso Python Patterns
+
+Futuras instações dos exemplos do curso Python Patterns com Luciano Ramalho
