@@ -18,3 +18,8 @@ No livro *Design Patterns* eles não inventaram nenhum padrão novo, mas sim def
 Descrever os padrões e dar nomes a eles foi uma grande contribuição, porque agora podemos falar "vamos implementar um **Iterator**" em vez de "vamos implementar uma classe com um método ``next`` que vai ser instanciada pela coleção e vai cuidar do estado de uma iteração com um cliente e blá, blá blá, blá...".
 
 Aprender padrões de projeto é uma forma de aperfeiçoar suas habilidades para construir sistemas orientados a objetos.
+
+----
+
+Para aprender padrões de projeto na prática, usando a linguagem Python, faça o curso **Python Patterns** com Luciano Ramalho. A primeira turma presencial será em Porto Alegre na semana do FISL 16 (`inscrições <http://www.eventick.com.br/python-patterns-poa>`_).
+
