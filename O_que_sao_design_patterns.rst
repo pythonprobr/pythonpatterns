@@ -20,6 +20,7 @@ Descrever os padrões e dar nomes a eles foi uma grande contribuição, porque a
 Aprender padrões de projeto é uma forma de aperfeiçoar suas habilidades para construir sistemas orientados a objetos.
 
 ----
+
 **Nota**: O design pattern **Iterator** já vem embutido na linguagem Python, portanto programadores Python não precisam implementá-lo. Mesmo assim, o entendimento do design pattern original ajuda a entender o potencial e os casos de uso dos iteradores embutidos na linguagem. Outros design patterns são simplificados em Python, se comparados a implementações clássicas em C++ ou Java.
 
 ----
