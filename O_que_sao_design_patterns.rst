@@ -27,5 +27,5 @@ Aprender padrões de projeto é uma forma de aperfeiçoar suas habilidades para 
 
 ----
 
-Para aprender padrões de projeto na prática, usando a linguagem Python, faça o curso **Python Patterns** com Luciano Ramalho. A primeira turma **presencial** será São Paulo no fim de semana de 15 e 16 de agosto de 2015 (`inscrições <http://j.mp/ppp-sao>`_). A primeira turma **online** começa em 29 de agosto de 2015, às 20h (`instruções <https://adm.python.pro.br/cursos/python-patterns>`_). 
+Para aprender padrões de projeto na prática, usando a linguagem Python, faça o curso **Python Patterns** com Luciano Ramalho. A primeira turma **presencial** será São Paulo no fim de semana de 15 e 16 de agosto de 2015 (`inscrições <http://j.mp/ppp-sao>`_). A primeira turma **online** começa em 29 de julho de 2015, às 20h (`instruções <https://adm.python.pro.br/cursos/python-patterns>`_). 
 
