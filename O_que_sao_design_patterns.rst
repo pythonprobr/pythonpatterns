@@ -2,6 +2,8 @@
 O que são Design Patterns
 ============================
 
+**ATUALIZAÇÃO**: Fiz um `vídeo de 8 minutos <https://www.youtube.com/watch?v=K7loVvk8Dyg>`_ onde apresento conceitos de **design patterns** usando blocos de LEGO® e outros exemplos.
+
 .. image:: patterns-gof-book.png
    :alt: Cover of the original Design Patterns book
    :align: right
