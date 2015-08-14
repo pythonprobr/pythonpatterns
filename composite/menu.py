@@ -28,9 +28,11 @@ class Menu(MenuComponent):
     def is_vegetarian(self):
         return all(sub_menu.is_vegetarian for sub_menu in self.menu_components)
 
-
     def display(self):
-        print('\n' + self.name, ', ', self.description, sep='')
+        print('\n' + self.name, end='')
+        if self.is_vegetarian:
+            print(' (v)', end='')
+        print(', ', self.description, sep='')
         print('-' * 60);
         for menu_component in self.menu_components:
             menu_component.display()
@@ -63,6 +65,6 @@ class MenuItem(MenuComponent):
     def display(self):
         print('  ' + self.name, end='')
         if self.is_vegetarian:
-            print('(v)', end='')
+            print(' (v)', end='')
         print(',', self.price)
         print('     --', self.description);
