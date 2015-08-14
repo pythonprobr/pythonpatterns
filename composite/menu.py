@@ -1,5 +1,6 @@
 from menuabc import MenuComponent
 
+
 class Menu(MenuComponent):
 
     def __init__(self, name, description):
@@ -33,7 +34,7 @@ class Menu(MenuComponent):
         if self.is_vegetarian:
             print(' (v)', end='')
         print(', ', self.description, sep='')
-        print('-' * 60);
+        print('-' * 60)
         for menu_component in self.menu_components:
             menu_component.display()
 
@@ -67,4 +68,4 @@ class MenuItem(MenuComponent):
         if self.is_vegetarian:
             print(' (v)', end='')
         print(',', self.price)
-        print('     --', self.description);
+        print('     --', self.description)

@@ -1,5 +1,5 @@
-
 from abc import ABC, abstractmethod
+
 
 class MenuComponent(ABC):
     '''Item do cardápio, com sub-itens'''
@@ -27,9 +27,9 @@ class MenuComponent(ABC):
         '''obter descrição do item'''
 
     @property
-    @abstractmethod
-    def description(self):
+    def price(self):
         '''obter preço do item'''
+        raise NotImplementedError()
 
     @property
     @abstractmethod
@@ -39,4 +39,3 @@ class MenuComponent(ABC):
     @abstractmethod
     def display(self):
         '''exibir item e sub-itens'''
-
